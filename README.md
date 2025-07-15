@@ -1,0 +1,2 @@
+# JavaGameProject
+"A 2D game using Java Swing"
